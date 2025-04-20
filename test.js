@@ -1,1 +1,1 @@
-console.log("added file with console log");
+console.log("changed");
